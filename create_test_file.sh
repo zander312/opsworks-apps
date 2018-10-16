@@ -1,1 +1,1 @@
-touch test.txt
+touch /home/ubuntu/test.txt
